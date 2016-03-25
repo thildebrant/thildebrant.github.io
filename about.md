@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am with AWS in Luxembourg, having a great time supporting our partners. This blog is my personal work and not affiliated with my employer. All thoughts are my own.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Placeholder
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[thildebrant@gmail.com](mailto:thildebrant@gmail.com)
