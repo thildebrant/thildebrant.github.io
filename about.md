@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am with AWS in Luxembourg, having a great time supporting our partners. This blog is my personal work and not affiliated with my employer. All thoughts are my own.
+Previously with AWS, first in Washington DC then in Luxembourg, am now having a great time with PwC Luxembourg supporting our public sector clients. This blog is my personal work and not affiliated with my employer. All thoughts are my own.
 
 ### More Information
 
