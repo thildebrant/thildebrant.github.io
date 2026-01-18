@@ -12,18 +12,12 @@ author: Todd
 
 # Ideas to work on
 
-You can use [MathJax](https://www.mathjax.org/) to write LaTeX expressions. For example:
+
 When \\(a \ne 0\\), there are two solutions to \\(ax^2 + bx + c = 0\\) and they are $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
 
-in-project-page). To demonstrate the issue, the following local image will be broken **if your site is a project site:**
-
-![Crepe](/assets/img/crepe.jpg)
-
-If the above image is broken, then you'll need to follow the instructions [in the FAQ](https://beautifuljekyll.com/faq/#links-in-project-page). Here is proof that it can be fixed:
-
-![Crepe]({{ '/assets/img/crepe.jpg' | relative_url }})
 
 <details markdown="1">
-<summary>Click here!</summary>
-Here you can see an **expandable** section
+<summary>Graph Algebras</summary>
+Both Magnitude Path Spectral Sequences (MPSS) and Leavitt Path Algebras discuss aspects of a graph's reach or spread, though from different perspectives. Interestingly, both use the Euler characteristic in their study of the graph properties. This invariant can be used to determine the expander properties of the graph, and then to compare the results using the Ihara Zeta function and the prime cycle decomposition. 
 </details>
+[MathJax](https://www.mathjax.org/) for LaTeX expressions. 
