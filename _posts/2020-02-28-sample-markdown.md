@@ -13,9 +13,9 @@ Using this page to sketch out rough thoughts and then to capture the results fro
 
 ## Graph Algebras
 My thought:
-Both Magnitude Path Spectral Sequences (MPSS) and Leavitt Path Algebras discuss aspects of a graph's reach or spread, though from different perspectives. Interestingly, both use the Euler characteristic in their study of the graph properties. This invariant can be used to determine the expander properties of the graph, and then to compare the results using the Ihara Zeta function and the prime cycle decomposition. 
+Both Magnitude Path Spectral Sequences (MPSS) and Leavitt Path Algebras discuss aspects of a graph's reach or spread, though from different perspectives. Interestingly, both use the Euler characteristic in their study of the graph properties. This invariant can be used to determine the expander properties of the graph, and then to compare the results using the Ihara Zeta function and the prime cycle decomposition. As Graph Reachability Homology [https://arxiv.org/abs/2312.01378](The Reachability Homology of a Directed Graph) was recently formulated, using work from Asao and Yuzhou Gu, relating using Discrete Morse Theory. A quick look at the connected papers is [https://www.connectedpapers.com/main/7c4a0f68f4db7bbb379b2b05625afe6e92d56c96/graph?utm_source=share_popup&utm_medium=copy_link&utm_campaign=share_graph](here). 
 
-Gemini recommends this research path:
+Gemini recommends the below research path. Interestingly, I asked about expander graphs, not Ramanujan graphs, and the LLM answer overlooked the eignevalue based Alon-Boppana bound as a possible approach to the problem.
 
 ### The Categorical and Algebraic Bridge
 
